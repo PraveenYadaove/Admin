@@ -9,5 +9,5 @@ phases:
       - mvn clean package -Dmaven.test.skip=true
 artifacts:
   files:
-    - target/Authorization-0.0.1-SNAPSHOT.jar
+    - target/Admin-0.0.1-SNAPSHOT.jar
   discard-paths: yes
